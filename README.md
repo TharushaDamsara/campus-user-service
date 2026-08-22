@@ -28,4 +28,3 @@ mvn spring-boot:run
 
 Runs on port `8081` by default. Requires PostgreSQL, and the CampusFlow Config Server +
 Eureka Server to be running.
-# campus-user-service
